@@ -16,6 +16,7 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
+clean_blog_social = []
 
 
 taxonomies = [
