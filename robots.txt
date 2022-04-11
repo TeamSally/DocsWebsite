@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teamsally.github.io/DocsWebsite/sitemap.xml
